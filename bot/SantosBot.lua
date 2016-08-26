@@ -294,25 +294,23 @@ function create_config( )
 	"Weather",
 	"Welcome"
     },
-    sudo_users = {175636120,219339258},--Sudo users
+    sudo_users = {147931082},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[🌐 Cyber Bot 🌐
+    about_text = [[🌐 Los Santos Bot 🌐
 An advanced administration bot based on TeleSeed written in Lua
 
 🔰 Github 🔰
 Open Source Soon...
 
-♨️ Global Admins Of Cyber Bot : ♨️
+♨️ Sudo And Founder Of Santos : ♨️
 
-🌀 @ThisIsPouria [Founder]
-
-🌀 @Mr_iNfluence [Developer]
+🌀 @MaKeRMaN
 
 ⭕️ Special thanks to
 SEEDTEAM
 
 💢 Our Channel : 💢
-📡 @CyberTM
+📡 @MRT_TM
 ]],
     help_text_realm = [[
 Realm Commands:
